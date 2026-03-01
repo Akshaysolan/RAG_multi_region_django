@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.sqlite3
+db.sqlite3
+
+# Virtual env
+venv/
+env/
+
+# Env files
+.env
+
+# Logs
+logs/
+*.log
+
+# Runtime folders
+media/
+static/
+backups/
+
+# OS
+.DS_Store
+Thumbs.db
